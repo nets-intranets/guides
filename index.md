@@ -7,3 +7,4 @@
 
 - [Download-the-Assistance-App-v2.pdf](Download-the-Assistance-App-v2.pdf)
 	
+- [FAQ](Frequently-Asked-Questions.pdf)
