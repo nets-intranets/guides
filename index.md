@@ -10,3 +10,5 @@
 - [FAQ](Frequently-Asked-Questions.pdf)
 
 - [Setting-up-Microsoft-Authenticator-App](Setting-up-Microsoft-Authenticator-App.pdf)
+
+- [User-guide-%20Set-up-and-login-to-your-Nets-account-Externals.pdf](User-guide-%20Set-up-and-login-to-your-Nets-account-Externals.pdf)
